@@ -1,0 +1,48 @@
+[
+    {
+        "slug": "0",
+        "description": "description",
+        "auther": "auther",
+        "font": "alexandria",
+        "weight": {
+            "100": false,
+            "200": true,
+            "300": true,
+            "400": false,
+            "500": true,
+            "600": false,
+            "700": true,
+            "800": false,
+            "900": true
+        },
+        "category": "naskh",
+        "tags": [
+            "naskh",
+            "خطوط عربية",
+            "خطوط"
+        ]
+    },
+    {
+        "slug": "1",
+        "description": "description",
+        "auther": "auther",
+        "font": "alexandria",
+        "weight": {
+            "100": false,
+            "200": true,
+            "300": true,
+            "400": false,
+            "500": true,
+            "600": false,
+            "700": true,
+            "800": false,
+            "900": true
+        },
+        "catacury": "naskh",
+        "tags": [
+            "naskh",
+            "خطوط عربية",
+            "خطوط"
+        ]
+    }
+]
